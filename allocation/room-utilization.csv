@@ -1,0 +1,4 @@
+room_id,wing,capacity,accepted_bookings,booked_minutes,first_start,last_end
+RM-A,North,4,1,60,2026-11-14T09:30:00Z,2026-11-14T10:30:00Z
+RM-B,North,8,2,120,2026-11-14T08:00:00Z,2026-11-14T10:00:00Z
+RM-C,South,6,1,60,2026-11-14T11:30:00Z,2026-11-14T12:30:00Z
